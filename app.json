@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "sdkVersion": "21.0.0",
+    "orientation": "portrait",
+    "name": "Intranet Meta",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "slug": "intranet-gobernacion-meta",
+    "ios": {
+      "bundleIdentifier": "com.fosterapps.intrameta"
+    },
+    "android": {
+      "package": "com.fosterapps.intrameta"
+    },
+    "splash": {
+    "image": "./assets/splash_intranet.jpg",
+    "backgroundColor": "#FFFFFF"
+    },
+  }
+}
